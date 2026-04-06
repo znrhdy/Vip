@@ -1,6 +1,6 @@
 #!/bin/bash
-REPOSLIM="https://raw.githubusercontent.com/Diah082/vip/main/"
-wget -q -O /usr/bin/limit-ip "${REPOSLIM}install/limit-ip"
+REPOSLIM="https://raw.githubusercontent.com/znrhdy/vip/main/"
+wget -q -O /usr/bin/limit-ip "${REPOSLIM}Fls/limit-ip"
 chmod +x /usr/bin/*
 cd /usr/bin
 sed -i 's/\r//' limit-ip
