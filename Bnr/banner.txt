@@ -1,0 +1,30 @@
+﻿<p style="text-align:center; font-family: monospace; white-space: pre;">
+
+  <!-- ===== ORNAMEN ATAS ===== -->
+  <font color="#FF007F">▬</font><font color="#E600A8">▬</font><font color="#CC00D1">▬</font>
+  <font color="#B300FA">ஜ</font><font color="#9900FF">۩</font><font color="#7A00FF">۞</font>
+  <font color="#9900FF">۩</font><font color="#B300FA">ஜ</font>
+  <font color="#CC00D1">▬</font><font color="#E600A8">▬</font><font color="#FF007F">▬</font>
+  <br><br>
+
+  <!-- ===== TITLE ===== -->
+  <font color="#FFD700"><b>꧁༺✨🕉️ ZNRHDY STORE 🕉️✨༻꧂</b></font><br>
+  <font color="red"><b>⚠️ ! TERM OF SERVICE ! ⚠️</b></font><br><br>
+
+  <!-- ===== RULES ===== -->
+  <font color="#00FF80"><b>🟢 NO SPAM</b></font><br>
+  <font color="#00E5FF"><b>🟢 NO DDOS</b></font><br>
+  <font color="#00BFFF"><b>🟢 NO HACKING AND CARDING</b></font><br>
+  <font color="#FF007F"><b>🔴 NO TORRENT!!</b></font><br>
+  <font color="#FF007F"><b>🔴 NO MULTI LOGIN!!</b></font><br>
+  <font color="#8A2BE2"><b>👉 NO MULTI LOGIN!! 👈</b></font><br><br>
+
+  <!-- ===== SEPARATOR ===== -->
+  <font color="#FF66CC">꧁༺════════✿════════༻꧂</font><br><br>
+
+  <!-- ===== CONFIG PREMIUM ===== -->
+  <font color="#00FFFF"><b>⚡ CONFIG PREMIUM ⚡</b></font><br>
+  <font color="#FF00FF"><b>🗡️ SSH, VMESS, VLESS, TROJAN READY 🗡️</b></font><br><br>
+
+  <font color="#FF66CC">꧁༺════════✿════════༻꧂</font><br><br>
+</p>
